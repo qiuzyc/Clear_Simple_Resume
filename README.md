@@ -47,3 +47,9 @@ For each educational experience, include: school, major, start and end dates, GP
  如果你有国家奖学金，可以写在这里。
 
  If you have received the National Scholarship, you may list it here. Other honors need not be included.
+
+ ### Publication
+
+论文发表（含专利，注意不是竞赛）最能体现科研能力。已发表和在投均可。由于研究领域隔行如隔山，优先级如下：1、领域知名期刊/会议且排名靠前；2、领域知名期刊/会议但排名靠后；3、领域不知名期刊/会议但排名靠前。排名过低的论文不建议列入。
+
+Publications (and patents, not competitions) best reflect your research taste and ability. Both published and under-review papers are acceptable. Prioritize as follows: first, top-tier venues with high author rank; second, top-tier venues with lower rank; third, lower-tier venues with high rank. Low-tier publications are best omitted.
