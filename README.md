@@ -43,4 +43,7 @@ List your educational experiences in reverse chronological order. If you have ex
 每段教育经历需包含以下信息：学校、专业、起止时间、GPA、排名及相关课程。 在选择相关课程时，建议按以下优先级排序：1、申请方向强相关 + 分数高；2、申请方向弱相关 + 分数高；3、申请方向强相关 + 分数低。
 
 For each educational experience, include: school, major, start and end dates, GPA, rank, and relevant courses. When listing relevant courses, prioritize in this order: 1. High relevance + High grade; 2. Low relevance + High grade; 3. High relevance + Low grade.
- 
+
+ 如果你有国家奖学金，可以写在这里。
+
+ If you have received the National Scholarship, you may list it here. Other honors need not be included.
