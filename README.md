@@ -3,6 +3,8 @@
  
  This is a clear and simple single-column word format resume template suitable for postgraduate applications, including two versions (Chinese and English).
 
+ 我会补充latex版本的，会……会吗？会吧，会吗？
+
  ## Core Principle
 世界上并不存在所谓的“完美”简历模板，无需在挑选模板上焦虑！关键在于如何有效利用模板，尽可能丰富内容，让审阅者能够轻松、顺畅地阅读。
 
