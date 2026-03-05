@@ -1,7 +1,16 @@
 # Clear_Simple_Resume
- 本模板为极简风格单栏word简历模板，适用于升学申请。包含中文和英文两个版本。
+
+<p align="center">
+<img src="./Chinese.jpg" width="900">
+</p>
+
+<p align="center">
+<img src="./English.jpg" width="900">
+</p>
+
+ 本模板为极简风格单栏word简历模板，适用于理工科升学申请。包含中文和英文两个版本。
  
- This is a clear and simple single-column word format resume template suitable for postgraduate applications, including two versions (Chinese and English).
+ This is a clear and simple single-column word format resume template suitable for STEM postgraduate applications, including two versions (Chinese and English).
 
  我会补充latex版本的，会……会吗？会吧，会吗？
 
@@ -53,3 +62,31 @@ For each educational experience, include: school, major, start and end dates, GP
 论文发表（含专利，注意不是竞赛）最能体现科研能力。已发表和在投均可。由于研究领域隔行如隔山，优先级如下：1、领域知名期刊/会议且排名靠前；2、领域知名期刊/会议但排名靠后；3、领域不知名期刊/会议但排名靠前。排名过低的论文不建议列入。
 
 Publications (and patents, not competitions) best reflect your research taste and ability. Both published and under-review papers are acceptable. Prioritize as follows: first, top-tier venues with high author rank; second, top-tier venues with lower rank; third, lower-tier venues with high rank. Low-tier publications are best omitted.
+
+### Research Experiences
+
+简历中最核心的部分。请按与你申请方向的相关度，列出你在不同实验室参与的项目。如有开源代码或论文，可附上 GitHub 和 arXiv 链接。
+
+This is the most critical section of your resume. List the projects you have participated in across different laboratories, ordered by their relevance to your application field. You may also include GitHub and arXiv links if applicable.
+
+注意：项目经历中的每个要点应以行为动词开头，并采用“行动+结果+实际意义”的结构来描述。例如：提出一种基于XX原理的XX算法，相较于现有方法在XX上实现XX%的提升，有助于提升模型在XX场景下的的XX能力。
+
+Note: Each key point in your research experience should begin with an action verb and follow an "action+result+impact" structure. For example: Proposed xx algorithm based on XX principle, achieving a XX% improvement over existing methods on XX, which helps enhance the model's XX ability in XX scenarios.
+
+### Awards And Honors
+
+请按照时间顺序列出你的竞赛奖项和奖学金。
+
+Please list your awards and scholarships in chronological order.
+
+### Skills
+
+这一部分通常用于展示你的英语水平以及与学科相关的专业技能，如编程语言、软件工具、实验操作经验等。
+
+This section is typically used to highlight your English proficiency and subject-related technical skills, such as programming languages, software tools, and laboratory experience.
+
+### Reference
+
+这一部分用于展现你的学术人脉，你列出的这些教授大概率也是为你撰写推荐信的人。建议提前告知他们你将他们列入了推荐人名单。
+
+This section helps demonstrate your academic connections. The professors you list here will most likely also be the ones writing your recommendation letters. It is advisable to inform them in advance that you have listed them as references.
