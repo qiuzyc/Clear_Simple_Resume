@@ -1,11 +1,11 @@
 # Clear_Simple_Resume
 
 <p align="center">
-<img src="./English.jpg" width="900">
+<img src="./Figures/English.jpg" width="900">
 </p>
 
 <p align="center">
-<img src="./Chinese.jpg" width="900">
+<img src="./Figures/Chinese.jpg" width="900">
 </p>
 
  本模板为极简风格单栏word简历模板，适用于理工科升学申请。包含中文和英文两个版本。
